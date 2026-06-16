@@ -99,8 +99,3 @@ On any physics collision, the speed drops to the penalty value and the boost ind
 
 ---
 
-## Notes
-
-- `.meta` files are excluded via `.gitignore`.
-- `boost`, `package`, `customer`, and `work` tags must be configured in Unity's Tag Manager for the scripts to function correctly.
-- Videos can be added to the repo under a `videos/` folder or linked via GitHub Issues upload.
