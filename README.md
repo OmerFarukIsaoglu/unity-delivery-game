@@ -14,7 +14,7 @@ A top-down 2D delivery game built in Unity. Drive through a pixel-art town, pick
 
 ### Boost Mechanic
 
-https://github.com/user-attachments/assets/ef9261a4-1db0-4795-a92c-9d52a85c7d29A
+https://github.com/user-attachments/assets/ef9261a4-1db0-4795-a92c-9d52a85c7d29
 
 ---
 
