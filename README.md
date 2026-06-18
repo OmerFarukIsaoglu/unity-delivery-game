@@ -14,15 +14,11 @@ A top-down 2D delivery game built in Unity. Drive through a pixel-art town, pick
 
 ### Boost Mechanic
 
-> Video showing the car hitting the boost pads (cups), triggering the "Boost" text on the top left and increasing speed.
-
-[Watch Boost Video](images/boost_demo.mp4)
+https://github.com/user-attachments/assets/ef9261a4-1db0-4795-a92c-9d52a85c7d29A
 
 ---
 
 ### Package Pickup & Delivery
-
-> Video showing the car touching the pink ice creams to pick up a package (pink particles appear), then delivering it to the monster-like customers (particles disappear on delivery).
 
 [Watch Delivery Video](images/delivery_demo.mp4)
 
